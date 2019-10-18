@@ -27,3 +27,7 @@ A full project of Event Management Using GraphQL,MongoDb-Atlas and Reactjs.
 ###### 4. Booking Events.
 ###### 5. Cancelling Event.
 ###### 6. Graph for the booked events based on the price of events.
+
+
+### SnapShots
+
