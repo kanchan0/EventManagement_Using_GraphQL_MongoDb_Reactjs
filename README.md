@@ -34,7 +34,7 @@ A full project of Event Management Using GraphQL,MongoDb-Atlas and Reactjs.
 
 ![Events](Events.png)
 
-![add events](add events.png)
+![add events](add_events.png)
 
 ![list view](list.png)
 
