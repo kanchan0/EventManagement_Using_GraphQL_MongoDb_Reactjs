@@ -17,10 +17,10 @@ A full project of Event Management Using GraphQL,MongoDb-Atlas and Reactjs.
      2. Open two terminals, one in the root directory of the project and other in "frontend" folder.
      3. Run "npm install" in both the terminals.
      4. In config folder give the url for mongoDB-Atlas connection or you can also use mongoDB compass.
-     5. Now ,you are all set now. Run "npm start" from both the terminal
-     6. Goto, http://localhost:3000.
+     5. Now ,you are all set now. Run "npm start" from both the terminal.
+     6. Goto, http://localhost:3000 .
      
-#### Functionalitiy of the project
+#### Functionality of the project
 ###### 1. User Authentication { login , signup }
 ###### 2. Event List.
 ###### 3. Creating Events.
